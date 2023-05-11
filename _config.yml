@@ -1,0 +1,16 @@
+title: Francisco's Homepage # your name (or website title) here
+logo: "/files/friscolt.png?raw=true" # your photo (or logo) here
+description: >
+ Abstract: <br>
+ Hello, my name is Francisco, and I'm from <a href= "https://www.instagram.com/p/CClVytAF1oy/">  Cholula 🇲🇽.  </a>  
+ I process medical images at <a href= "https://www.inaoep.mx/"> INAOE  </a> 
+ and <a href= "https://maestriasydiplomados.tec.mx/escuelas/escuela-de-ingenieria-y-ciencias/"> Tecnológico de Monterrey  </a> <br> <br>
+ 
+ Keywords: 
+ 
+ Machine Learning, 
+ Computer Vision 
+ & Medical Image Analysis
+ 
+
+theme: jekyll-theme-minimal
