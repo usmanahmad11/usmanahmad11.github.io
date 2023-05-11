@@ -8,7 +8,7 @@
 
 I'm a **Lecturer** at the **Department of Computing** at <a href="https://bathspa.ae/" target="_blank">Bath Spa University</a>
 
-Currently I'm working in kidney stone classification in endoscopic images at the [CV-INSIDE Lab](https://www.researchgate.net/lab/CV-INSIDE-Computer-Vision-for-Image-aNalysiS-bIomeDical-Engineering-Gilberto-Ochoa-Ruiz) under the direction of [*Gilberto Ochoa-Ruiz](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en) and [**Christian Daul](https://scholar.google.fr/citations?user=XPH6u74AAAAJ&hl=fr)
+Currently I'm teaching Machine Learning, Emerging Technologies, Python Programming at the [CV-INSIDE Lab](https://www.researchgate.net/lab/CV-INSIDE-Computer-Vision-for-Image-aNalysiS-bIomeDical-Engineering-Gilberto-Ochoa-Ruiz) under the direction of [*Gilberto Ochoa-Ruiz](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en) and [**Christian Daul](https://scholar.google.fr/citations?user=XPH6u74AAAAJ&hl=fr)
 
 
 
