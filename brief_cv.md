@@ -8,50 +8,37 @@
 
 ### Education
 
-**2022 - Now:  PhD. in Computer Sciences**
-   *  [*Instituto Tecnológico y de Estudios Superiores de Monterrey](https://tec.mx/es) (Guadalajara, Mexico)
-   *  [**Université de Lorraine](https://www.univ-lorraine.fr) (Nancy, France)
-   *  Thesis: *Automatic real-time identification of kidney stones and their composition from ureteroscopic images using deep learning and computer vision techniques*
-   *  [CV-INSIDE (Computer Vision for Image aNalysiS & bIomeDical Engineering) Lab](https://www.researchgate.net/lab/CV-INSIDE-Computer-Vision-for-Image-aNalysiS-bIomeDical-Engineering-Gilberto-Ochoa-Ruiz)
-   *  Supervisors: [*Gilberto Ochoa-Ruiz](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en) and [**Christian Daul](https://scholar.google.fr/citations?user=XPH6u74AAAAJ&hl=fr)
-
->>
-
-**2017 - 2019:  MSc. in Biomedical Sciences and Technologies**
-   *  [Instituto Nacional de Astrofísica, Óptica y Electrónica](https://www.inaoep.mx) (Puebla, Mexico)
-   *  [Thesis](https://inaoe.repositorioinstitucional.mx/jspui/handle/1009/2014): *Visualization of Blood Vessels in Contrast Images based on the Decomposition of the Discrete Wavelet Transform*
-   * [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/)
-   * Supervisors: [Hayde Peregrina-Barreto](https://scholar.google.es/citations?user=Wh2blp0AAAAJ&hl=es) and [José de Jesús Rangel-Magdaleno](https://scholar.google.com.mx/citations?user=aBNkfEsAAAAJ&hl=es)
+**2017 - 2019:  MSc. in Computer Science**
+   *  [Bahria University](https://www.bahria.edu.pk/) (Islamabad, Pakistan)
+   *  [Thesis](https://inaoe.repositorioinstitucional.mx/jspui/handle/1009/2014): *Large Scale Fish Images Classification and Localization using Transfer Learning and Localization Aware CNN Architecture*
+   
+   * Supervisors: [Dr. Arif ur Rahman](https://scholar.google.com.my/citations?user=eN_hGTkAAAAJ&hl=en&oi=ao) 
 
 
 
 
-**2011 - 2015:   BE. in Mechatronics Engineering**
-   * [Universidad Politécnica de Puebla](http://www.uppuebla.edu.mx/joomla1/) (Puebla, Mexico)
-   * Thesis: *Modernization of the Propulsion Control and Monitoring of Ships of the Mexican Navy*
-   * Laboratory of  Digital Signal Processing
-   * Supervisor: Salvador Antonio Arroyo-Díaz
+**2011 - 2015:   BS. in Computer Science**
+   * [COMSATA University](https://www.comsats.edu.pk/) (Islamabad, Pakistan)
+   * Final Year Project: *Pro Scanner: A smart phone application to detect and extract textual data from images using OCR*
+   * Supervisor: Dr. Adeel Anjum
 
 
 ---
 
 ### Scientific outreach
+* **<a href="https://cdn.techscience.cn/ueditor/files/csse/TSP_CSSE-45-2/TSP_CSSE_31008/TSP_CSSE_31008.pdf" target="_blank"> Large Scale Fish Images Classification and Localization using Transfer Learning and Localization Aware CNN Architecture</a>**  Usman Ahmad <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=u06UNxwAAAAJ&citation_for_view=u06UNxwAAAAJ:qjMakFHDy7sC" target="_blank"></a>, Muhammad Junaid Ali, Faizan Ahmed Khan, Arfat Ahmad Khan, Arif Ur Rehman, Malik Muhammad Ali Shahid, Mohd Anul Haq, Ilyas Khan, Zamil S Alzamil, Ahmed Alhussen  *Submitted at Computer Systems Science & Engineering Journal*
+[<a href="https://www.techscience.com/csse/v45n2/50415" target="_blank">Tech Science Press</a>]
 
-**2022: LatinX in Computer Vision (LXCV)**
-* Oct 23, 2022: Public Relations and Website Chair - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/eccv-2022) at the [2022 European Conference of Computer Vision (ECCV)](https://eccv2022.ecva.net), Tel Aviv, Israel.
-* Jul 19, 2022: Author and volunteer - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2022) at the [2022 Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr2022.thecvf.com), Louisiana, EE.UU.
-
-**2021: LatinX in Computer Vision (LXCV)**
-* Oct 11, 2021: Author and volunteer  - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/iccv-2021) at the [2021 International Conference on Computer Vision (ICCV)](https://iccv2021.thecvf.com/home), Virtual. 
-* Jun 19, 2021: Author and volunteer  - [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2021) at the [2021 Computer Vision and Pattern Recognition (CVPR)](https://cvpr2021.thecvf.com), Virtual.
-
-**2018: Seminario Nacional de Ciencias y Tecnologías Biomédicas, INAOE**
-* May 10-11, 2018: Volunteer - [1er Seminario Nacional de Ciencias y Tecnologías Biomédicas](http://adria.inaoep.mx/~diplomados/Seminario-Biomedicas/index.html) at the [Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)](https://www.inaoep.mx). Puebla, Mexico.
+* **<a href="https://arxiv.org/abs/2206.00252" target="_blank">A review on the impact of AI as big data in computer network environment</a>** <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=u06UNxwAAAAJ&citation_for_view=u06UNxwAAAAJ:9yKSN-GCB0IC" target="_blank">Usman Ahmad</a>, Mariam Ayub, Asia Mumtaz, Muhammad Abdullah *Journal of Advances in Technology and Engineering Research*
+[<a href="http://www.tafpublications.com/gip_content/paper/jater-7.2.3.pdf" target="_blank">Journal of Advances in Technology and Engineering Research</a>]
 
 
-**2015: Instituto de Investigación y Desarrollo Tecnológico de la Armada de México, Secretaría de Marina**
+* **<a href="https://doi.org/10.20474/Jahss-8.2.3" target="_blank">Comparison of e-commerce interfaces based on satisfaction and efficiency</a>** <a href="http://www.tafpublications.com/platform/Articles/full-jahss8.2.3.php" target="_blank">Usman Ahmad</a>, Anmol Zubair,Zainab Muhammad Aslam, Iftikhar Alam Khan  *Submitted at Journal of Advances in Technology and Engineering Research* 
+[<a href="http://www.tafpublications.com/platform/Articles/full-jahss8.2.3.php" target="_blank">Journal of Advances in Technology and Engineering Research</a>]
 
-* Jan-May, 2015: Thesis - [Instituto de Investigación y Desarrollo Tecnológico de la Armada de México](http://www.google.com/url?q=http%3A%2F%2Fwww.semar.gob.mx%2FINIDETAM%2Findex.html&sa=D&sntz=1&usg=AFQjCNEb_O6uYFmlG4_ZFhbfzh-IybM0WQ). Department of Digitalización del Sistemas de Control y Monitoreo (DISICOM). Veracruz, Mexico.
+
+* **<a href="https://arxiv.org/abs/2201.08865" target="_blank"> The harm that comes with spreading misinformation in social media</a>**  <a href="http://www.tafpublications.com/platform/Articles/full-jahss7.4.1.php" target="_blank">Usman Ahmad</a>, Sarai Ruth C. Carreon, Iftikhar Alam Khan, Abdul Basit, *Submitted at Journal of Advances in Humanities and Social Sciences*
+[<a href="http://www.tafpublications.com/platform/Articles/full-jahss7.4.1.php" target="_blank">Journal of Advances in Humanities and Social Sciences</a>]
 
 
 ---
