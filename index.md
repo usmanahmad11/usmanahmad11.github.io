@@ -8,7 +8,7 @@
 
 I'm a **Lecturer** at the **Department of Computing** at <a href="https://bathspa.ae/" target="_blank">Bath Spa University</a>
 
-Currently I'm teaching Machine Learning, Emerging Technologies, Python Programming at the [CV-INSIDE Lab](https://www.researchgate.net/lab/CV-INSIDE-Computer-Vision-for-Image-aNalysiS-bIomeDical-Engineering-Gilberto-Ochoa-Ruiz) under the direction of [*Gilberto Ochoa-Ruiz](https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en) and [**Christian Daul](https://scholar.google.fr/citations?user=XPH6u74AAAAJ&hl=fr)
+Currently I'm teaching Machine Learning, Emerging Technologies, Python Programming at the [Creative Computing Department](https://www.ccstuds.com/).
 
 
 
@@ -30,25 +30,25 @@ I'm now working on some interesting **projects**:
 *  [Visualization and analysis of **colony growth** in speckle images](/colonygrowth) 
 
 
-If you want to discuss things of images, or **make a collaboration**, send me an [email](mailto:francisco.lopez@ieee.org?subject=%20Hello,%20Francisco)  or follow me on <a href="https://twitter.com/Friscolt" target="_blank">twitter</a>.
+If you want to discuss things of images, or **make a collaboration**, send me an [email](mailto:usmanahmad50@outlook.com?subject=%20Hello,%20Usman)  or follow me on <a href="https://twitter.com/usmanahmaad50" target="_blank">twitter</a>.
 
 
 Cheers,
-Francisco 🇲🇽
+Usman Ahmad
 
 ---
 
 ### Updates
 
 
-* Jul 11, 2022: The UCL Medical Image Computing Summer School (MedICSS) begins today.
-
-* Jun 19, 2022: I had the opportunity to attend the [LatinX in Computer Vision (LXCV)](https://www.latinxinai.org/cvpr-2022-about) at the [2022 Conference on Computer Vision and Pattern Recognition (CVPR)](https://cvpr2022.thecvf.com), Louisiana, EE.UU 🇺🇸
 
 
-* May 2, 2022: I had been invited to be a **reviewer** at the <a href="http://www.comia.org.mx" target="_blank">Congreso Mexicano de Inteligencia Artificial 2022</a>!
+* Jun 19, 2022: I had the opportunity to host the [TechTalks2023 in Emerging Technologies](https://www.ccstuds.com/post/techtalks2023-in-emerging-technologies) at the [Bath Spa University Academic Centre RAK, UAE)]
 
-* Apr 23, 2022: I had been invited to be a **reviewer** at the <a href="https://www.miua2022.com" target="_blank">26th Conference on Medical Image Understanding and Analysis 2022</a>!
+
+* March 12, 2023: I had organised an online workshop on **Cyber Security** at the <a href="https://www.ccstuds.com/post/cc-dept-organizes-another-seminar-and-workshop-on-cyber-security" target="_blank">Bath Spa University Academic Centre Rak, UAE 2023</a>!
+
+* June 12, 2023: I had been invited to be a **reviewer** at the <a href="https://www.editorialmanager.com/jksucis/default2.aspx?pg=login.asp&username=&a=r" target="_blank">Journal of King Saud University - Computer and Information Sciences</a>!
 
 >> ![ ](/files/miua2022_screen1.png)
 
