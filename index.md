@@ -61,11 +61,9 @@ Usman Ahmad
 >> ![ ](/files/meeting.png)
 >> On the scene: Dr. Cuonghpham (University of Thailand) Prof. Kashif Naseer Qureshi (University of Limerick), Prof. Prof.Saleem Iqbal(Allam Iqbal Open University Islamabad, Pakistan), Usman Ahmad (me)
 
-* Jan 25, 2021:  Our **journal paper**: *<a href="https://arxiv.org/abs/2201.08865" target="_blank">On the in vivo recognition of kidney stones using machine learning</a>* is now **available** in <a href="https://arxiv.org/abs/2201.08865" target="_blank">arXiv</a>
+* Jan 25, 2021:  Our **journal paper**: *<a href="https://www.techscience.com/csse/v45n2/50415/pdf" target="_blank">Large Scale Fish Images Classification and Localization using Transfer
+Learning and Localization Aware CNN Architecture</a>* is now **available** in <a href="https://www.techscience.com/csse/v45n2/50415/pdf" target="_blank">arXiv</a>
 
-* Jan 20, 2022: It's official, I'm a PhD student in Computer Sciences at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a>!
-
->> ![ ](/files/tec2022_welcome.jpeg)
 
 ---
 
