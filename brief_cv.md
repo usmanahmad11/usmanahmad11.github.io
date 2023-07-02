@@ -2,7 +2,7 @@
 ###  [Home](/index) • [Publications](/publications) • [Research](/research) • [News](/news) • CV • [Coffee](/coffee) • [Contact](/contact)
 
 ---
-📑 [Download CV](/files/CV_FranciscoLopez.pdf) 
+📑 [Download CV](/files/CV_UsmanAhmad.pdf) 
 
 ---
 
