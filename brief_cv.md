@@ -46,17 +46,17 @@
 
 ### Employment
 
-**2019 - 2022: Research assistant, Instituto Nacional de Astrofísica, Óptica y Electrónica**
-  * 2020 - 2021: Department of Electronics Sciences at the [Digital Systems Group](https://www.researchgate.net/lab/Digital-Systems-DSG-Jose-J-Rangel-Magdaleno?_sg=XWbUuXmTnwuDzXovozbcbl3Cxpe-k75_8f4-fZCRkE6g78XBE91_33Ux-doVuzDUCoZE4LTqUMjLhJM2BGGFvL_jdg)
-  * 2019 - 2020: Department of Biomedical Sciences and Tecnologies at the [Biosignal Processing and Medical Computing Lab](https://ccc.inaoep.mx/~bio/)
+**2022 - Present: Lecturer, Bath Spa University Academic Centre,Rak, UAE**
+  * Department of Computing at the [Bath Spa University](https://www.ccstuds.com/)
+  
  
-**2015 - 2021: Associate professor, Universidad de los Ángeles**
-  * Summer: Instrumentation and control, mechatronic design, image and signal processing, and numerical programming
-  * Spring: Artificial intelligence, electrical circuit analysis, computer-aided design
-  * Fall: Robotics design, computer science for engineers, and statistics 
+**2021- 2022: Lecturer, University of Sialkot**
+  * Summer: Intro to Programming, Data Structures, image and signal processing, and numerical programming
+  * Spring: Artificial intelligence, Cloud Computing, Database Management
+  * Fall: Operating Systems, Cloud Computing, Machine Learning 
 
-**2015 - 2017: Assistant professor,  Colegio de Educación Profesional Técnica del Estado de Puebla**
-  * Physics, maths, electronics and metrology 
+**2020 - 2021: Lecturer,  Bahria University Islamabad, Pakistan**
+  * Artifical Intelligence, Intro to Programming, Digital Image Processing 
 
 ---
 
