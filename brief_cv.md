@@ -20,7 +20,7 @@
 **2011 - 2015:   BS. in Computer Science**
    * [COMSATA University](https://www.comsats.edu.pk/) (Islamabad, Pakistan)
    * Final Year Project: *Pro Scanner: A smart phone application to detect and extract textual data from images using OCR*
-   * Supervisor: Dr. Adeel Anjum
+   * Supervisor: [Dr. Adeel Anjum](https://scholar.google.com.my/citations?hl=en&user=bGFAQmoAAAAJ) 
 
 
 ---
