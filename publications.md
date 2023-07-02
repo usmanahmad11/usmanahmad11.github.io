@@ -13,7 +13,7 @@ In this section you can find my [publications](/publications) and [talks](/talks
 ### 2022
 
 
-* **<a href="https://arxiv.org/abs/2206.00069" target="_blank">Comparing feature fusion strategies for Deep Learning-based kidney stone identification.</a>**  E. Villalvazo-Avila, <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez-Tiro</a>, D. Flores-Araiza, G. Ochoa-Ruiz, J. El-Beze, J. Hubert, C. Daul.  *Submitted at XXVIIIème Colloque Francophone de Traitement du Signal et des Images.*
+* **<a href="https://cdn.techscience.cn/ueditor/files/csse/TSP_CSSE-45-2/TSP_CSSE_31008/TSP_CSSE_31008.pdf" target="_blank"> Large Scale Fish Images Classification and Localization using Transfer Learning and Localization Aware CNN Architecture</a>**  E. Villalvazo-Avila, <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=u06UNxwAAAAJ&citation_for_view=u06UNxwAAAAJ:qjMakFHDy7sC" target="_blank"> Usman Ahmad</a>, Usman Ahmad, Muhammad Junaid Ali, Faizan Ahmed Khan, Arfat Ahmad Khan, Arif Ur Rehman, Malik Muhammad Ali Shahid, Mohd Anul Haq, Ilyas Khan, Zamil S Alzamil, Ahmed Alhussen  *Submitted at Computer Systems Science & Engineering Journal*
 [<a href="https://arxiv.org/abs/2206.00069" target="_blank">ArXiv</a>]
 
 * **<a href="https://arxiv.org/abs/2206.00252" target="_blank">Interpretable Deep Learning Classifier by Detection of Prototypical Parts on Kidney Stones Images.</a>**  D. Flores-Araiza, <a href="https://scholar.google.es/citations?user=IlG06bYAAAAJ&hl=es" target="_blank">F. Lopez-Tiro</a>, E. Villalvazo-Avila, J. El-Beze, J. Hubert, G. Ochoa-Ruiz, C. Daul.  *LXCV Workshop at Computer Vision and Pattern Recognition Conference (CVPR).*
