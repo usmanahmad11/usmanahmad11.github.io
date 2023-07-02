@@ -59,7 +59,7 @@ Usman Ahmad
 * Jun 27, 2023: I had the opportunity to **meet** Prof.Kashif Naseer Qureshi (University of Limerick), Prof.Saleem Iqbal(Allam Iqbal Open University Islamabad, Pakistan) and Dr. Cuonghpham(University of Thailand). International Research Collaboration.
 
 >> ![ ](/files/meeting.png)
->> On the scene: Dr. Gilberto Ochoa-Ruiz 🇲🇽 (Tecnológico de Monterrey), Prof. Jacques Hubert 🇫🇷 (Head of the Urology Department, CHU Nancy), Prof. Christian Daul 🇫🇷 (Université de Lorraine), Francisco Lopez-Tiro (me)
+>> On the scene: Dr. Cuonghpham (University of Thailand) Prof. Kashif Naseer Qureshi (University of Limerick), Prof. Prof.Saleem Iqbal(Allam Iqbal Open University Islamabad, Pakistan), Usman Ahmad (me)
 
 * Jan 25, 2021:  Our **journal paper**: *<a href="https://arxiv.org/abs/2201.08865" target="_blank">On the in vivo recognition of kidney stones using machine learning</a>* is now **available** in <a href="https://arxiv.org/abs/2201.08865" target="_blank">arXiv</a>
 
