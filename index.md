@@ -51,18 +51,14 @@ Usman Ahmad
 
 * June 12, 2023: I had been invited to be a **reviewer** at the <a href="https://www.editorialmanager.com/jksucis/default2.aspx?pg=login.asp&username=&a=r" target="_blank">Journal of King Saud University - Computer and Information Sciences</a>!
 
->> ![ ](/files/miua2022_screen1.png)
-
-* Apr 22, 2022: My **application** for the <a href="https://medicss.cs.ucl.ac.uk" target="_blank">UCL Medical Image Computing Summer School (MedICSS 2022)</a>  lectures and project package **has been successful**.
-
->> ![ ](/files/medicss2022_screen1.png)
 
 
-*  Feb 14, 2022: I'm violently happy and very excited!, **today I start my PhD in Computer Sciences** at <a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a>!
+* Feb 24, 2023: My **students** in Machine Learning module produced exceptional work <a href="https://www.ccstuds.com/post/machine-learning-fall-2022" target="_blank">Magic of Machine Learning | Fall 2022</a>.
 
-* Jan 31, 2022: I had the opportunity to **meet** Prof. Jacques Hubert 🇫🇷 (urologist of the kidney stone project), Prof. Christian Daul 🇫🇷 (thesis co-director) and Dr. Gilberto Ochoa-Ruiz 🇲🇽 (thesis director). The road to France begins!
 
->> ![ ](/files/tec2022_meet1.png)
+* Jun 27, 2023: I had the opportunity to **meet** Prof.Kashif Naseer Qureshi (University of Limerick), Prof.Saleem Iqbal(Allam Iqbal Open University Islamabad, Pakistan) and Dr. Cuonghpham(University of Thailand). International Research Collaboration.
+
+>> ![ ](/files/meeting.png)
 >> On the scene: Dr. Gilberto Ochoa-Ruiz 🇲🇽 (Tecnológico de Monterrey), Prof. Jacques Hubert 🇫🇷 (Head of the Urology Department, CHU Nancy), Prof. Christian Daul 🇫🇷 (Université de Lorraine), Francisco Lopez-Tiro (me)
 
 * Jan 25, 2021:  Our **journal paper**: *<a href="https://arxiv.org/abs/2201.08865" target="_blank">On the in vivo recognition of kidney stones using machine learning</a>* is now **available** in <a href="https://arxiv.org/abs/2201.08865" target="_blank">arXiv</a>
@@ -77,4 +73,4 @@ Usman Ahmad
 
 
 --- 
-Last update: Apr 3, 2022 
+Last update: July 2, 2023 
