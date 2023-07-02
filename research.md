@@ -4,10 +4,10 @@
 
 --- 
 
-Currently, I'm doing research in **computer vision** and **machine learning**  as part of my studies of PhD in Computer Sciences under direction of 
-<a href="https://scholar.google.com/citations?user=DDtiliwAAAAJ&hl=en" target="_blank">Dr. Gilberto Ochoa-Ruiz</a> (<a href="https://tec.mx/es" target="_blank">Tecnológico de Monterrey</a> 🇲🇽) and <a href="https://scholar.google.es/citations?user=XPH6u74AAAAJ&hl=es&authuser=1" target="_blank">Prof. Christian Daul</a> (<a href="https://welcome.univ-lorraine.fr/en/" target="_blank">Université de Lorraine</a> 🇫🇷)
+Currently, I'm doing research in **computer vision** and **machine learning** 
+<a href="https://scholar.google.com/citations?user=u06UNxwAAAAJ&hl=en" target="_blank">
 
-I'm continuously doing research in **medical image processing and analysis** at the Department of Biomedical Sciences and Technologies at <a href="https://www.inaoep.mx" target="_blank">Instituto Nacional de Astrofísica, Óptica y Electrónica (INAOE)</a> 🇲🇽
+I'm continuously doing research in **medical image processing and analysis** at the Department of Computing at <a href="https://bathspa.ae/" target="_blank">Bath Spa University Academic Centre RAK, UAE</a> 
 
 
   
@@ -20,7 +20,7 @@ I'm now working on some interesting **projects**:
 *  [Classification of **kidney stones** in endoscopic images](/kidneystones) 📌
 *  [Visualization and localization of **blood vessels** in speckle images](/bloodvessels)
 *  [Breast classification on **mammography** images](/mammography)
-*  [Visualization and analysis of **colony growth** in speckle images](/colonygrowth)
+*  [Traffic Signals detection **detection** in road images](/detection)
 
 If you want to know more about the contributions in these projects, you can click on the points above.
 
