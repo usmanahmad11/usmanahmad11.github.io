@@ -10,7 +10,7 @@
 
 **2017 - 2019:  MSc. in Computer Science**
    *  [Bahria University](https://www.bahria.edu.pk/) (Islamabad, Pakistan)
-   *  [Thesis](https://inaoe.repositorioinstitucional.mx/jspui/handle/1009/2014): *Large Scale Fish Images Classification and Localization using Transfer Learning and Localization Aware CNN Architecture*
+   *  [Thesis](https://www.techscience.com/csse/v45n2/50415/html): *Large Scale Fish Images Classification and Localization using Transfer Learning and Localization Aware CNN Architecture*
    
    * Supervisors: [Dr. Arif ur Rahman](https://scholar.google.com.my/citations?user=eN_hGTkAAAAJ&hl=en&oi=ao) 
 
