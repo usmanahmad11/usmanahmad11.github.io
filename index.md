@@ -30,7 +30,7 @@ I'm now working on some interesting **projects**:
 *  [Visualization and analysis of **colony growth** in speckle images] 
 
 
-If you want to discuss things of images, or **make a collaboration**, send me an [email](mailto:usmanahmad50@outlook.com?subject=%20Hello,%20Usman)  or follow me on <a href="https://twitter.com/usmanahmaad50" target="_blank">twitter</a>.
+If you want to discuss my work with images, or **collaborate**, send me an [email](mailto:usmanahmad50@outlook.com?subject=%20Hello,%20Usman)  or follow me on <a href="https://twitter.com/usmanahmaad50" target="_blank">twitter</a>.
 
 
 Cheers,
