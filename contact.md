@@ -10,6 +10,7 @@
 
 ### **Usman Ahmad**                 
 Contact: [usman@bathspa.ae](mailto:usman@bathspa.ae?subject=%20Hello,%20Usman), [usmanahmad50@outlook.com](mailto:usmanahmad50@outlook.com?subject=%20Hello,%20Usman) 
+Phone: [+971508347527]
 
                                                            
 ---
