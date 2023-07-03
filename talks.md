@@ -16,6 +16,11 @@ In this section you can find my [publications](/publications) and [talks](/talks
 >> ![ ](/files/techtalks.webp)
 
 
+* Jun 27, 2023: I had the opportunity to **meet** Prof.Kashif Naseer Qureshi (University of Limerick), Prof.Saleem Iqbal(Allam Iqbal Open University Islamabad, Pakistan) and Dr. Cuonghpham(University of Thailand). International Research Collaboration.
+
+>> ![ ](/files/meeting.png)
+
+
 >>
 
 ---
