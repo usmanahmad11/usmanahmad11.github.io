@@ -9,7 +9,7 @@
 
 ### Books
 
-The vast majority of the books I have read are in Spanish. My love for literature was born when I met a great friend, Pablo. I share with you a list of my top favorite books I have read since then: 
+The vast majority of the books I have read are novels. My love for literature was born when I met a great friend, Muneeb. I share with you a list of my top favorite books I have read since then: 
 
 **Top favorite books**
 
