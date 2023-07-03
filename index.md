@@ -68,7 +68,7 @@ Usman Ahmad
 >> On the scene: Dr. Cuonghpham (University of Thailand) Prof. Kashif Naseer Qureshi (University of Limerick), Prof. Prof.Saleem Iqbal(Allam Iqbal Open University Islamabad, Pakistan), Usman Ahmad (me)
 
 * Jan 25, 2021:  Our **journal paper**: *<a href="https://www.techscience.com/csse/v45n2/50415/pdf" target="_blank">Large Scale Fish Images Classification and Localization using Transfer
-Learning and Localization Aware CNN Architecture</a>* is now **available** in <a href="https://www.techscience.com/csse/v45n2/50415/pdf" target="_blank">arXiv</a>
+Learning and Localization Aware CNN Architecture</a>* is now **available** in <a href="https://www.techscience.com/csse/v45n2/50415/pdf" target="_blank">Tech Science Press</a>
 
 
 ---
