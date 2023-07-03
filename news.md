@@ -5,11 +5,14 @@
 
 ### 2022
 
-* Jun 19, 2022: I had the opportunity to host the [TechTalks2023 in Emerging Technologies](https://www.ccstuds.com/post/techtalks2023-in-emerging-technologies) at the [Bath Spa University Academic Centre RAK, UAE)]
->> ![ ](/files/techtalks.webp)
+* Jun 19, 2023: I had the opportunity to host the [TechTalks2023 in Emerging Technologies](https://www.ccstuds.com/post/techtalks2023-in-emerging-technologies) at the [Bath Spa University Academic Centre RAK, UAE)]
+>> ![ ](/interdepartment.png)
 
 * March 12, 2023: I had organised an online workshop on **Cyber Security** at the <a href="https://www.ccstuds.com/post/cc-dept-organizes-another-seminar-and-workshop-on-cyber-security" target="_blank">Bath Spa University Academic Centre Rak, UAE 2023</a>!
 >> ![ ](/files/cyberworkshop.jpg)
+
+* April 27, 2023: I had the opportunity to give inter-department open lecture session on  [Introduction to Python](https://www.ccstuds.com/) at the [Bath Spa University Academic Centre RAK, UAE)]
+>> ![ ](/files/techtalks.webp)
 
 * June 12, 2023: I had been invited to be a **reviewer** at the <a href="https://www.editorialmanager.com/jksucis/default2.aspx?pg=login.asp&username=&a=r" target="_blank">Journal of King Saud University - Computer and Information Sciences</a>!
 
