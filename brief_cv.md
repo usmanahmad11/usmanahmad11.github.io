@@ -1,5 +1,5 @@
 ## Brief CV 📑
-###  [Home](/index) • [Publications](/publications) • [Research](/research) • [News](/news) • CV • [Coffee](/coffee) • [Contact](/contact)
+###  [Home](/index) • [Publications](/publications) • [Research](/research) • [News](/news) • CV  • [Contact](/contact)
 
 ---
 📑 [Download CV](/files/CV_UsmanAhmad.pdf) 
