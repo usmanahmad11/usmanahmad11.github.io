@@ -27,7 +27,7 @@ I'm now working on some interesting **projects**:
 *  [Classification of **kidney stones** in endoscopic images] 📌
 *  [Visualization and localization of **blood vessels** in speckle images]
 *  [Breast classification on **mammography** images] 
-*  [Visualization and analysis of **colony growth** in speckle images] 
+*  [Traffic Signals detection **detection** in road images] 
 
 
 If you want to discuss my work with images, or **collaborate**, send me an [email](mailto:usmanahmad50@outlook.com?subject=%20Hello,%20Usman)  or follow me on <a href="https://twitter.com/usmanahmaad50" target="_blank">twitter</a>.
