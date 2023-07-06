@@ -41,7 +41,7 @@ Usman Ahmad
 ### Updates
 
 
-
+* Jun 30, 2023: I had published my exclusive course on  [Data Mining Techniques](https://usmanahmad.gitbook.io/data-mining-techniques/)
 
 * Jun 19, 2022: I had the opportunity to host the [TechTalks2023 in Emerging Technologies](https://www.ccstuds.com/post/techtalks2023-in-emerging-technologies) at the [Bath Spa University Academic Centre RAK, UAE)]
 >> ![ ](/files/techtalks.webp)
