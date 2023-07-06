@@ -12,7 +12,7 @@ Currently I'm teaching Machine Learning, Emerging Technologies, Python Programmi
 
 
 
-Most importantly, **I'm always on the lookout for a great <a href="https://en.wikipedia.org/wiki/Affogato" target="_blank">affogato!</a>**
+Most importantly, **I'm always on the lookout for a great <a href="https://en.wikipedia.org/wiki/Chaunsa" target="_blank">Chaunsa!</a>**
   
   
 ---
