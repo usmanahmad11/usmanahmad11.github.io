@@ -43,7 +43,7 @@ Usman Ahmad
 * August 4, 2023: I'm thrilled to share that I've successfully completed the **Google Data Analytics** Professional Certificate! 🚀💼
   at the <a href="https://www.credly.com/badges/5701d784-658e-447e-a2ed-12a88dfde320" target="_blank">Google,</a>!
 >> ![ ](/files/badge.png)
->> ![ ](/files/certificate.png)
+>> ![ ](/files/certificate.jpg)
 
 
 
