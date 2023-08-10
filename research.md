@@ -18,8 +18,8 @@ I'm continuously doing research in **medical image processing and analysis** at 
 
 I'm now working on some interesting **projects**:
 *  [Classification of **kidney stones** in endoscopic images] 📌
-*  [Visualization and localization of **blood vessels** in speckle images]
-*  [Breast classification on **mammography** images]
+*  [The Advantages of **Artificial Intelligence** in Research]
+*  [Comparision of **LLMs** in terms of **Spreading Misinformation**]
 *  [Traffic Signals detection **detection** in road images]
 
 If you want to know more about the contributions in these projects, you can click on the points above.
