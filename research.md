@@ -1,6 +1,6 @@
 ## Research and projects 📓
 ###  [Home](/index) • [Publications](/publications) • Research • [News](/news) • [CV](/brief_cv)  • [Contact](/contact)
-**Projects** • [Blood vessels](/bloodvessels) • [Kidney stones](/kidneystones) • [Mammography](/mammography) • [Colony growth](/colonygrowth)
+**Projects** • [Large Scale Fish Images Classification] 
 
 --- 
 
