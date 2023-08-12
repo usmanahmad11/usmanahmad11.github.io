@@ -23,11 +23,11 @@ My interests are in **medical image analysis**, **computer vision**,  and **mach
 
   
 I'm now working on some interesting **projects**:
-
+s
 *  [Classification of **kidney stones** in endoscopic images] 📌
-*  [Visualization and localization of **blood vessels** in speckle images]
-*  [Breast classification on **mammography** images] 
-*  [Traffic Signals detection **detection** in road images] 
+*  [The Advantages of **Artificial Intelligence** in Research]
+*  [Comparision of **LLMs** in terms of **Spreading Misinformation**]
+*  [Traffic Signals detection **detection** in road images]
 
 
 If you want to discuss my work with images, or **collaborate**, send me an [email](mailto:usmanahmad50@outlook.com?subject=%20Hello,%20Usman)  or follow me on <a href="https://twitter.com/usmanahmaad50" target="_blank">twitter</a>.
