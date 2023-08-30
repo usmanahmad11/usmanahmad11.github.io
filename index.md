@@ -42,7 +42,7 @@ Usman Ahmad
 
 * August 30, 2023: I was honored to be a guest lecturer for RMMC College Phillipines and conducted a webinar on **Cyber Security: Safeguarding the Present and Shaping the Future** 🚀💼
  
->> ![ ](/files/cybersecurity.jpg)
+>> ![ ](/files/cybersecurity.png)
 
 
 
