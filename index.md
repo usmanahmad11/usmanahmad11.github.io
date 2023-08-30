@@ -40,6 +40,16 @@ Usman Ahmad
 
 ### Updates
 
+* August 30, 2023: I was honored to be a guest lecturer for RMMC College Phillipines and conducted a webinar on **Cyber Security: Safeguarding the Present and Shaping the Future** 🚀💼
+ 
+>> ![ ](/files/cc-broucher.jpeg)
+>> ![ ](/files/cc-webinar.jpeg)
+>> ![ ](/files/certificate.jpg)
+
+
+
+
+
 * August 10, 2023: I'm thrilled to share that I've received  the **Certificate of Appreciation** for successfully completing Semester of Spring 2023. Overall We achieved amazing projects in **Emerging Technologies**! 🚀💼
  
 >> ![ ](/files/semester2023.png)
