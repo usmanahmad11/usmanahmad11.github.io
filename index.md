@@ -44,7 +44,9 @@ Usman Ahmad
  
 >> ![ ](/files/cybersecurity.png)
 
-
+* August 27, 2023: So proud to receive the faculty research award at graduation ceremony! 🎉🏆🔬. #ResearchExcellence #GraduationAchievement 🚀💼
+ 
+>> ![ ](/files/research-awaard.jpg)
 
 
 
