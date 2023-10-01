@@ -40,7 +40,7 @@ Usman Ahmad
 
 ### Updates
 
-* September 25, 2023: A Chapter with title "Ch 11.   Cybersecurity Standards for AIoT Networks" is published in <a href="https://www.routledge.com/Artificial-Intelligence-of-Things-AIoT-New-Standards-Technologies-and/Qureshi-Newe/p/book/9781032552996" target="_blank">Routledge, Taylor and Francis Group</a>
+* September 25, 2023: A Chapter with title **"Ch 11.   Cybersecurity Standards for AIoT Networks"** is published in <a href="https://www.routledge.com/Artificial-Intelligence-of-Things-AIoT-New-Standards-Technologies-and/Qureshi-Newe/p/book/9781032552996" target="_blank">Routledge, Taylor and Francis Group</a>
  
 
 * August 30, 2023: I was honored to be a guest lecturer for RMMC College Phillipines and conducted a webinar on **Cyber Security: Safeguarding the Present and Shaping the Future** 🚀💼
