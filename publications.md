@@ -12,8 +12,10 @@ In this section you can find my [publications](/publications) and [talks](/talks
 * **<a href="https://jae-tech.com/index.php/jaet/article/view/116" target="_blank"> Comprehensive Assessment of Risk Assessment Tools and Academic Performance in Higher Education: A Meta-Analytic Perspective</a>**  Usman Ahmad <a href="https://scholar.google.com/citations?user=u06UNxwAAAAJ&hl=en"></a>, Iftikhar Alam Khan, Arshiya Subhani, Zainab Rasheed, Usman Ahmad, M Nawaz Brohi, *Submitted at Journal of Applied Engineering & Technology (JAET)*
 [<a href="https://jae-tech.com/index.php/jaet/article/view/116" target="_blank">Journal of Applied Engineering & Technology (JAET)
 </a>]
-### 2022
 
+
+
+### 2022
 
 * **<a href="https://cdn.techscience.cn/ueditor/files/csse/TSP_CSSE-45-2/TSP_CSSE_31008/TSP_CSSE_31008.pdf" target="_blank"> Large Scale Fish Images Classification and Localization using Transfer Learning and Localization Aware CNN Architecture</a>**  Usman Ahmad <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=u06UNxwAAAAJ&citation_for_view=u06UNxwAAAAJ:qjMakFHDy7sC" target="_blank"></a>, Muhammad Junaid Ali, Faizan Ahmed Khan, Arfat Ahmad Khan, Arif Ur Rehman, Malik Muhammad Ali Shahid, Mohd Anul Haq, Ilyas Khan, Zamil S Alzamil, Ahmed Alhussen  *Submitted at Computer Systems Science & Engineering Journal*
 [<a href="https://www.techscience.com/csse/v45n2/50415" target="_blank">Tech Science Press</a>]
