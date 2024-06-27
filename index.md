@@ -42,6 +42,8 @@ Usman Ahmad
 *I am honored to have been awarded the **Fellowship of the Higher Education Academy (FHEA)**. This recognition highlights my dedication to advancing teaching excellence in higher education.
 >> ![ ](/files/FHEA.jpg)
 
+* January10, 2024: A Chapter with title **"Ch 2.   The Advantages of Artificial Intelligence in Research "** is published in <a href="https://www.routledge.com/Next-Generation-AI-Language-Models-in-Research-Promising-Perspectives-and-Valid-Concerns/Qureshi-Jeon/p/book/9781032667935" target="_blank">Routledge, Taylor and Francis Group</a>
+
 * September 25, 2023: A Chapter with title **"Ch 11.   Cybersecurity Standards for AIoT Networks"** is published in <a href="https://www.routledge.com/Artificial-Intelligence-of-Things-AIoT-New-Standards-Technologies-and/Qureshi-Newe/p/book/9781032552996" target="_blank">Routledge, Taylor and Francis Group</a>
  
 
