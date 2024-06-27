@@ -9,6 +9,11 @@
 In this section  find my [publications](/publications) and [talks](/talks). Also you can find more information in my <a href="https://scholar.google.com/citations?user=u06UNxwAAAAJ&hl=en" target="_blank">Google Academic</a> profile. **Each publication includes the indexed article, code and its poster and/or presentation**. If you want the article (or any other item) [write me an email](mailto:usmanahmad50@outlook.com?subject=[GitHub]%20Hello,%20Usman) or request it in my <a href="https://www.researchgate.net/profile/Usman-Ahmad-44?ev=hdr_xprf" target="_blank">ResearchGate</a>
 
 ### 2023
+* September 25, 2023: A Chapter with title **"Ch 11.   Cybersecurity Standards for AIoT Networks"** is published in <a href="https://www.routledge.com/Artificial-Intelligence-of-Things-AIoT-New-Standards-Technologies-and/Qureshi-Newe/p/book/9781032552996" target="_blank">Routledge, Taylor and Francis Group</a>
+ 
+
+* August 30, 2023: I was honored to be a guest lecturer for RMMC College Phillipines and conducted a webinar on **Cyber Security: Safeguarding the Present and Shaping the Future** 🚀💼
+ 
 * **<a href="https://jae-tech.com/index.php/jaet/article/view/116" target="_blank"> Comprehensive Assessment of Risk Assessment Tools and Academic Performance in Higher Education: A Meta-Analytic Perspective</a>**  Usman Ahmad <a href="https://scholar.google.com/citations?user=u06UNxwAAAAJ&hl=en"></a>, Iftikhar Alam Khan, Arshiya Subhani, Zainab Rasheed, Usman Ahmad, M Nawaz Brohi, *Submitted at Journal of Applied Engineering & Technology (JAET)*
 [<a href="https://jae-tech.com/index.php/jaet/article/view/116" target="_blank">Journal of Applied Engineering & Technology (JAET)
 </a>]
