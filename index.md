@@ -39,6 +39,10 @@ Usman Ahmad
 ---
 
 ### Updates
+I’m thrilled to share that I have recently received a certificate for reviewing a research paper! 🎓✍️
+This experience has been incredibly rewarding, offering a deep dive into cutting-edge research and contributing to the academic community. A big thanks to Elsevier for the opportunity and recognition.
+hashtag#Research hashtag#AcademicCommunity hashtag#PeerReview
+>> ![ ](/files/reviewer.jpg)
 *I am honored to have been awarded the **Fellowship of the Higher Education Academy (FHEA)**. This recognition highlights my dedication to advancing teaching excellence in higher education.
 >> ![ ](/files/FHEA.jpg)
 
