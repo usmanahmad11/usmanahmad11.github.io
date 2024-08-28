@@ -39,6 +39,14 @@ Usman Ahmad
 ---
 
 ### Updates
+It was an honour to receive Faculty research award from Vice chancellor Prof. Sue Rigby of Bath Spa University at graduation ceremony of Bath Spa University Academic Centre RAK. 
+hashtag#graduation hashtag#research
+
+>> ![ ](/files/award.jpg)
+
+
+
+
 I’m thrilled to share that I have recently received a certificate for reviewing a research paper! 🎓✍️
 This experience has been incredibly rewarding, offering a deep dive into cutting-edge research and contributing to the academic community. A big thanks to Elsevier for the opportunity and recognition.
 hashtag#Research hashtag#AcademicCommunity hashtag#PeerReview
